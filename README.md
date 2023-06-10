@@ -1,2 +1,2 @@
 # linux
-Scripts for Linux, mainly Bash
+The scripts I use for Linux, mainly Bash
